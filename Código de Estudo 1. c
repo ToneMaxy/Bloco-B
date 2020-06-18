@@ -6,20 +6,20 @@ char validarlogin(){
   char senha[5];
   char usuario[5];
 
-  printf("Digite seu usuário:);
+  printf("Digite seu usuário:");
   gets(usuario);
-  printf("Digite sua senha:);
+  printf("Digite sua senha:");
   gets(senha);
 
   printf("\n\n Para %s e %s", usuario, senha);
 
   if(strcmp(senha, "ASDFG") == 0 && strcmp(usuario, "David") == 0){
 
-    printf("Acesso permitido!);
+    printf("\n\nAcesso permitido!");
 
   }else{
 
-    printf("Acesso negado!);
+    printf("\n\nAcesso negado!");
 
   }
 }
