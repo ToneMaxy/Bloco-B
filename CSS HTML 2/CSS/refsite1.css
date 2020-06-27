@@ -1,0 +1,53 @@
+#corpo{
+  background-image:url(img.ref.site1/13.jpg);
+  background-size:100%;
+  background-attachment: fixed;
+}
+.myslides{
+  border-image: none;
+  max-width: 450px; 
+  max-height: 300px;
+}
+
+#font1{
+ text-align: center;
+ color: darkorange;
+ font-family:'Arial';
+}
+#font2{
+  text-align: center;
+  color:white;
+  font-family:'Bookman Old Style';
+  font-size: 50px;
+}
+#font3{
+  text-align: justify;
+  font-family:'Bookman Old Style';
+  color:white;
+}
+#font4{
+  text-align: center;
+  color:yellow;
+  font-family:'Bookman Old Style';
+  font-size: 50px;
+}
+#font5{
+  text-align: justify;
+  font-family:'Bookman Old Style';
+  color:white;
+  font-size: 17px;
+
+}
+
+#p1{
+  font-size: 15px;
+  color: yellow;
+}
+#p2{
+  font-size: 30px;
+  color: yellow;
+}
+#p3{
+  font-size: 15px;
+  color: black;
+}
